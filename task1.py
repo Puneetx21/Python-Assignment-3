@@ -4,9 +4,6 @@ Problem Statement: Write a Python program that:
 2.   Returns the calculated factorial.
 3.   Calls the function with a sample number and prints the output.
 """
-# n = int(input("Enter the number for which factorial to be find :"))
-# fact = 1
-
 
 # def factorial(num):
 #     factor = 1
@@ -20,7 +17,7 @@ Problem Statement: Write a Python program that:
 # print(f"the factorial of {n} : {res}")
 
 
-############### USING RECURSION
+# USING RECURSION
 
 def factorial(num):
     if num == 1:
