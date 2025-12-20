@@ -2,7 +2,7 @@
 
 # Assignment and practice
 
-1. Task 1
+   * Task 1
    Problem statement : To find factorial of a number
    Solution:
    1. first take a number as an input form user 
@@ -18,7 +18,7 @@
   3. It will call itself again and again until n = 1 ,for n = 1 we wil return 1 and end the process.
 
 
-2. Task 2
+  * Task 2
     Problem statement : to find following value of a user input number 
      Square root of the number
      Natural logarithm (log base e) of the number
