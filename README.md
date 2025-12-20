@@ -1,6 +1,6 @@
 # Python-Assignment-3
 
-Assignment and practice
+# Assignment and practice
 
 1. Task 1
    Problem statement : To find factorial of a number
@@ -20,9 +20,9 @@ Assignment and practice
 
 2. Task 2
     Problem statement : to find following value of a user input number 
-    #  Square root of the number
-    #  Natural logarithm (log base e) of the number
-    #  Sine of the number (in radians)
+     Square root of the number
+     Natural logarithm (log base e) of the number
+     Sine of the number (in radians)
 
    Solution :
    1. we will import math module 
